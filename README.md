@@ -88,36 +88,36 @@ npm run dev
 ## Interface
 <h6>UI in Device1</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(785).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(785).png" alt="View" width="700"/>
 </p>
 
 <h6>UI in Device2</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(795).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(795).png" alt="View" width="600"/>
 </p>
 <h6>Summery</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(786).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(786).png" alt="View" width="700"/>
 </p>
 <h6>Payment Form</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(787).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(787).png" alt="View" width="700"/>
 </p>
 <h6>About</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(788).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(788).png" alt="View" width="700"/>
 </p>
 <h6>Payment Mode</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(792).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(792).png" alt="View" width="700"/>
 </p>
 <h6>Previous Payments</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(793).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(793).png" alt="View" width="700"/>
 </p>
 <h6>Records sheet</h6>
 <p align="center">
-  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(794).png" alt="View" width="100"/>
+  <img src="https://github.com/hsj71/FruitsMarket_ReactVite/blob/main/Screenshot%20(794).png" alt="View" width="700"/>
 </p>
 
 ---
