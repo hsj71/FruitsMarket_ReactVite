@@ -4,6 +4,10 @@ This is a simple yet fully functional **fruit store** web application built usin
 
 ---
 
+# view (https://fruit-store-react1.onrender.com/)
+
+---
+
 ## ⚙️ Tech Stack
 
 | Tool        | Description                                          |
